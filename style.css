@@ -1,0 +1,10 @@
+body{
+  background-color: #94d0cc;
+}
+
+.DisplayPic{
+border-radius: 100%;
+}
+.samesize{
+width: 500px; height:500px;
+}
